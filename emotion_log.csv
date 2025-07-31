@@ -1,0 +1,3 @@
+Start,End,Emotion
+0.0,3.0,"{'angry': 0.9711, 'disgust': 0.0001, 'fear': 0.0012, 'happy': 0.0014, 'neutral': 0.0, 'sad': 0.0071, 'surprise': 0.019}"
+3.0,3.13125,"{'angry': 0.0477, 'disgust': 0.2454, 'fear': 0.0031, 'happy': 0.3363, 'neutral': 0.0014, 'sad': 0.0058, 'surprise': 0.3604}"
